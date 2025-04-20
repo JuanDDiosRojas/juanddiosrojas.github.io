@@ -8,7 +8,7 @@ twitter_username: ""
 github_username: JuanDDiosRojas
 linkedin_username: juan-de-dios-rojas-olvera-72618029a
 
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
