@@ -1,8 +1,8 @@
 ---
-layout: home
-author_profile: true
-title: "Bienvenido"
+layout: default
+title: "Inicio"
 ---
 
-Soy Juan de Dios Rojas Olvera, doctorando en cosmología e inteligencia artificial, trabajando en lentes gravitacionales, inferencia estadística y aprendizaje profundo.
-Este sitio presenta mi trabajo académico, publicaciones, proyectos y un espacio para divulgación científica .
+<img src="/assets/img/header.jpg" alt="Banner" style="width:100%; border-radius: 10px; margin-bottom: 20px;">
+
+Bienvenido a mi sitio académico. Aquí comparto mi trabajo en cosmología, inteligencia artificial y lentes gravitacionales.

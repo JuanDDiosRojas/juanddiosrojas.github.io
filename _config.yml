@@ -1,44 +1,7 @@
 title: "Juan de Dios Rojas Olvera"
 email: "jdrojaso@astro.unam.mx"
-description: >-
-  PhD candidate in astrophysics, focused on gravitational lensing, deep learning, and cosmology.
+description: "PhD en cosmología, machine learning y lentes gravitacionales."
 baseurl: ""
 url: "https://juanddiosrojas.github.io"
-twitter_username: ""
-github_username: JuanDDiosRojas
-linkedin_username: juan-de-dios-rojas-olvera-72618029a
-
-#theme: minimal-mistakes-jekyll
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
-author:
-  name: "Juan de Dios Rojas Olvera"
-  avatar: ""
-  bio: "PhD student in astrophysics and machine learning."
-  location: "Mexico City"
-
-# Navegación
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "page"
-
-# Menú principal
-nav:
-  - title: "Inicio"
-    url: /
-  - title: "Sobre mí"
-    url: /about/
-  - title: "CV"
-    url: /cv/
-  - title: "Proyectos"
-    url: /projects/
-  - title: "Publicaciones"
-    url: /publications/
-  - title: "Divulgación"
-    url: /divulgacion/
-  - title: "Personal"
-    url: /personal/
+markdown: kramdown
+permalink: pretty
