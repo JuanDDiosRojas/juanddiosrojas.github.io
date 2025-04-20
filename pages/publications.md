@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Publicaciones"
 permalink: /publications/
 ---
-
-- J. de Dios Rojas Olvera et al. "Observational Cosmology with Artificial Neural Networks", *Universe*, 2022. [DOI](https://doi.org/10.3390/universe8020120)
-- Memorias de la Escuela de Verano en Física (UNAM, 2025)
+- Universe (2022): [Artículo](https://doi.org/10.3390/universe8020120)
+- Tesis de maestría UNAM

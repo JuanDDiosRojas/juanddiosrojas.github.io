@@ -1,7 +1,6 @@
 ---
-layout: page
-title: "Divulgación Científica"
+layout: default
+title: "Divulgación"
 permalink: /divulgacion/
 ---
-
-Próximamente compartiré cápsulas, artículos y contenido relacionado con ciencia y sociedad. También puedes seguir mi proyecto de divulgación independiente en esta misma sección.
+Aquí compartiré contenido de ciencia accesible para todo público. Pronto más.
